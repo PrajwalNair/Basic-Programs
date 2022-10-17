@@ -1,0 +1,15 @@
+class ParksDisplay
+{
+	public static void main (String [] values)
+	{
+	Parks name = new Parks();
+	 
+	
+	
+	
+	
+	}
+
+
+
+}
